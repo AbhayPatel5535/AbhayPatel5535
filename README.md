@@ -16,10 +16,6 @@
 <img src="https://img.shields.io/badge/LEETCODE-00C853?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 
-<a href="https://github.com/AbhayPatel5535">
-<img src="https://img.shields.io/badge/GITHUB-00695C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
 <a href="mailto:abhaypatel0286@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-00897B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
