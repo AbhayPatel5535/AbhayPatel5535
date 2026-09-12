@@ -60,9 +60,6 @@ contact     : abhaypatel0286@gmail.com | +91-7818974610
 ### Languages
 ![Python](https://img.shields.io/badge/PYTHON-00C853?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-00897B?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-00BFA5?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-00C853?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-00897B?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/REACT-00BFA5?style=for-the-badge&logo=react&logoColor=white)
