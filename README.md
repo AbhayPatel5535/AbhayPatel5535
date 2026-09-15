@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00C853&center=true&vCenter=true&width=750&lines=345%2B+LeetCode+Problems+Solved;Summer+Intern+at+Bharat+Electronics+Limited;B.Tech+CSE+%40+GLA+University;AI+%26+Data+Science+Enthusiast;DSA+Problem+Solver" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00C853&center=true&vCenter=true&width=750&lines=350%2B+LeetCode+Problems+Solved;Summer+Intern+at+Bharat+Electronics+Limited;B.Tech+CSE+%40+GLA+University;AI+%26+Data+Science+Enthusiast;DSA+Problem+Solver" alt="Typing SVG"/>
 
 <br><br>
 
