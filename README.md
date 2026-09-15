@@ -41,7 +41,7 @@ contact     : abhaypatel0286@gmail.com | +91-7818974610
 ```
 
 - Passionate about Full-Stack Development, DSA, and AI/Data Science
-- 345+ LeetCode problems solved, sharpening DSA skills daily using Java
+- 350+ LeetCode problems solved, sharpening DSA skills daily using Java
 - Summer Intern at Bharat Electronics Limited
 - Building projects using the MERN stack and Python-based AI/Data Science tools
 - Actively participating in hackathons and technical events — 2X Winner (1st Prize)
@@ -110,7 +110,7 @@ contact     : abhaypatel0286@gmail.com | +91-7818974610
 | Achievement | Details |
 |-------------|---------|
 | Bharat Electronics Limited | Summer Intern |
-| LeetCode | 345+ Problems Solved (Rank #410246) |
+| LeetCode | 350+ Problems Solved |
 | Hackathons | 2X Winner (1st Prize) |
 
 </div>
