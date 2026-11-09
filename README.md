@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00C853&center=true&vCenter=true&width=750&lines=350%2B+LeetCode+Problems+Solved;Summer+Intern+at+Bharat+Electronics+Limited;B.Tech+CSE+%40+GLA+University;AI+%26+Data+Science+Enthusiast;DSA+Problem+Solver" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00C853&center=true&vCenter=true&width=750&lines=400%2B+LeetCode+Problems+Solved;Summer+Intern+at+Bharat+Electronics+Limited;B.Tech+CSE+%40+GLA+University;AI+%26+Data+Science+Enthusiast;DSA+Problem+Solver" alt="Typing SVG"/>
 
 <br><br>
 
@@ -41,7 +41,7 @@ contact     : abhaypatel0286@gmail.com | +91-7818974610
 ```
 
 - Passionate about Full-Stack Development, DSA, and AI/Data Science
-- 350+ LeetCode problems solved, sharpening DSA skills daily using Java
+- 400+ LeetCode problems solved, sharpening DSA skills daily using Java
 - Summer Intern at Bharat Electronics Limited
 - Building projects using the MERN stack and Python-based AI/Data Science tools
 - Actively participating in hackathons and technical events — 2X Winner (1st Prize)
@@ -110,7 +110,7 @@ contact     : abhaypatel0286@gmail.com | +91-7818974610
 | Achievement | Details |
 |-------------|---------|
 | Bharat Electronics Limited | Summer Intern |
-| LeetCode | 350+ Problems Solved |
+| LeetCode | 400+ Problems Solved |
 | Hackathons | 2X Winner (1st Prize) |
 
 </div>
